@@ -17,7 +17,7 @@
     <section class="sub-header">
         <nav>
             
-            <a href="index.html"><img src="images/logo.png" ></a>
+            <a href="index.html"><img  src="images/schoollogo.png " style="width: 120px; height: 120px; "></a>
             <div class="nav-links">
                 <i class="fa-solid fa-xmark" onclick="hidemenu()"></i>
                 <ul>
@@ -42,16 +42,17 @@
     <section class="about-us">
         <div class="row">
             <div class="about-col">
-                <h1>We are the World's Largest University</h1>
+            <h1>Exploring a World of Opportunities</h1>
                 <p>
-                Moreover, the intermediate course often introduces students to more specialized areas within their chosen field. They have the opportunity to explore various subtopics and narrow down their interests, paving the way for future specialization. This exposure to diverse areas helps students identify their passions and potential career paths, allowing them to make more informed decisions about their educational and professional trajectories.
+                    The intermediate course opens doors to a world of possibilities and helps students dive deeper into their chosen field of study. This phase of education introduces students to more specialized areas within their chosen discipline. They have the chance to delve into various subtopics, refining their interests and charting a path towards specialization. This exposure to diverse subjects empowers students to uncover their passions and potential career directions, equipping them to make well-informed choices about their academic and professional journeys.
 
-                The intermediate course also places a strong emphasis on developing critical skills such as research, analysis, and communication. Students are encouraged to conduct independent research, evaluate different sources of information, and present their findings in a coherent and convincing manner. These skills are crucial for their academic growth and are highly valued in the professional world
+                    The intermediate course places a significant emphasis on cultivating vital skills such as research, analysis, and effective communication. Students are encouraged to engage in independent research, evaluate multiple sources of information, and articulate their findings in a clear and persuasive manner. These skills not only drive academic progress but also hold immense value in the professional arena, preparing students for success in a dynamic world.
                 </p>
+
                 <a href="" class="hero-btn red-btn">EXPLORE NOW</a>
             </div>
             <div class="about-col">
-                <img src="images/about.jpg" >
+                <img src="images/schoolbg.jpeg" >
             </div>
 
 

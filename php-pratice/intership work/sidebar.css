@@ -7,13 +7,16 @@
 
 .header{
     width: 100%;
-    height: 100vh;
+    height: 110vh;
     background-image: url(imageslogin/background.png);
     background-position:center;
     background-size: cover;
     position: relative;
 }
-
+.sn{
+    /* display: flex; */
+    color:#000;
+}
 .logo{
     
     color: white;

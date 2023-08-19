@@ -17,13 +17,13 @@
     <section class="header">
         <nav>
             
-            <a href="index.html"><img src="images/logo.png" ></a>
+            <a href="#"><img  src="images/schoollogo.png" style="width: 99px; height: 99px; "></a>
             <div class="nav-links">
                 <i class="fa-solid fa-xmark" onclick="hidemenu()"></i>
                 <ul>
                     <li><a href="mainpage.php">HOME</a></li>
                     <li><a href="about.php">ABOUT</a></li>
-                    <li><a href="">COURSE</a></li>
+                    <li><a href="#">COURSE</a></li>
                     <li><a href="">BLOG</a></li>
                     <li><a href="register.php">REGISTER</a></li>
                     <li><button type="button" class="login"><a href="login.php">LOGIN</a></button></li>
@@ -36,33 +36,33 @@
         </nav>
 
         <div class="text-box">
-            <h1>Aurelian Academy</h1>
-            <p>A college is an educational institution or a constituent part of one.<br> A college may be a degree-awarding tertiary educational institution, a part of a collegiate or federal university, <br>an institution offering vocational education, or a secondary school.</p>
+            <h1>PIONEER HIGHER SENCONDARY SCHOOL</h1>
+            <p>Pioneer  Higher Secondary School is an institution dedicated to providing quality education and fostering a nurturing environment for students.<br> Our mission is to empower young minds with knowledge, skills, and values that prepare them for a bright future. Whether it's academics, extracurricular activities, or character development, we strive to offer a comprehensive educational experience. Join us on a journey of learning and growth!</p>
             <a href="" class="hero-btn">Visit Us to Know More</a>
         </div>
 
     </section>
     <section class="course">
         <h1>courses we offer</h1>
-        <p>lorem ipsum dolor sit amet,consectetur adipiscing.</p>
+        <p>Higher Secondary Groups</p>
 
         <div class="row">
             <div class="course-col">
-                <h3>Intermediat</h3>
+                <h3>BIO</h3>
                 <p>It serves as a stepping stone between the foundational concepts learned in
                     the beginner course and the advanced topics explored in higher-level studies.
                     In the intermediate course.
                 </p>
             </div>
             <div class="course-col">
-                <h3>Degree</h3>
+                <h3>COMPUTER SCIENCE</h3>
                 <p>It serves as a stepping stone between the foundational concepts learned in
                     the beginner course and the advanced topics explored in higher-level studies.
                     In the intermediate course.
                 </p>
             </div>
             <div class="course-col">
-                <h3>post Graduation</h3>
+                <h3>Commerce</h3>
                 <p>It serves as a stepping stone between the foundational concepts learned in
                      the beginner course and the advanced topics explored in higher-level studies.
                      In the intermediate course.
@@ -73,25 +73,43 @@
     </section>
 
     <section class="campus">
-        <h1>Our Global campus</h1>
-        <p>lorem ipsum dolor sit amet,consectetur adipiscing.</p>
+    <h1>State-of-the-Art Facilities</h1>
+    <p>At our institution, we are dedicated to providing students with a conducive learning environment equipped with modern facilities to enhance their educational journey. <br>Our commitment to excellence extends beyond the classroom, as we believe that a well-rounded education encompasses both academic and practical experiences.</p>
         <div class="row">
             <div class="campus-col">
-                <img src="images/london.png" >
+                <img src="images/schoolbg.jpeg" >
                 <div class="layer">
-                    <h3>LONDON</h3>
+                    <h3>CAMPUS</h3>
                 </div>
             </div>
             <div class="campus-col">
-                <img src="images/newyork.png" >
+                <img src="images/sc4.jpg" >
                 <div class="layer">
-                    <h3>NEW YORK</h3>
+                    <h3>Auditorium</h3>
                 </div>
             </div>
             <div class="campus-col">
-                <img src="images/washington.png" >
+                <img src="images/sc7.jpg" >
                 <div class="layer">
-                    <h3>WASHINGTON</h3>
+                    <h3>Football Academy</h3>
+                </div>
+            </div>
+            <div class="campus-col">
+                <img src="images/sc12.jpg" >
+                <div class="layer">
+                    <h3>Library</h3>
+                </div>
+            </div>
+            <div class="campus-col">
+                <img src="images/sc11.jpg" >
+                <div class="layer">
+                    <h3>Hostel</h3>
+                </div>
+            </div>
+            <div class="campus-col">
+                <img src="images/sc10.jpg" >
+                <div class="layer">
+                    <h3>Transport</h3>
                 </div>
             </div>
         </div>

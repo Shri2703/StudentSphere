@@ -13,8 +13,10 @@
         <div class="header">
            <div class="nav">
                 <div class="logo">
-                    <a href="index.html"><img src="images/logo.png" ></a>
+                    <a href="index.html"><img  src="images/schoollogo.png " style="width: 99px; height: 99px; "></a>
+                   <center> <div class="sn"><h3>PIONEER HIGHER SECONDARY SCHOOL</h3</div></center>
                 </div>
+                
                 
            </div>
            <hr>
@@ -49,15 +51,15 @@
                                 <tbody>
                                 <tr>
                                     <td>Full Name:</td>
-                                    <td>Ram kumar</td>
+                                    <td>Vijay S R</td>
                                 </tr>
                                 <tr>
                                     <td>Email:</td>
-                                    <td>Rankumar@example.com</td>
+                                    <td>vijay@gmail.com</td>
                                 </tr>
                                 <tr>
-                                    <td>Department:</td>
-                                    <td>IT</td>
+                                    <td>Group:</td>
+                                    <td>cs</td>
                                 </tr>
                                 <tr>
                                     <td>Hostel:</td>
@@ -73,15 +75,11 @@
                                 <tbody>
                                 <tr>
                                     <td>Mentor Name:</td>
-                                    <td>Jane Smith</td>
-                                </tr>
-                                <tr>
-                                    <td>Mentor Email:</td>
-                                    <td>janesmith@example.com</td>
+                                    <td>Dhanalakshmi</td>
                                 </tr>
                                 <tr>
                                     <td>Mentor Handeling Course: </td>
-                                    <td>DSA</td>
+                                    <td>Chemistry</td>
                                 </tr>
                                 </tbody>
                                 <thead>
@@ -91,12 +89,21 @@
                                 </thead>
                                 <tbody>
                                 <tr>
-                                    <td>SSLC:</td>
+                                    <td>Birth Certificate</td>
                                     <td>Sumbited</td>
                                 </tr>
                                 <tr>
-                                    <td>HSC:</td>
+                                    <td>SSLC:</td>
                                     <td>Sumbited</td>
+                                </tr>
+                                <thead>
+                                <tr>
+                                    <th colspan="3">Parent Details</th>
+                                </tr>
+                                <tbody>
+                                <tr>
+                                    <td>Mobile Number:</td>
+                                    <td>9751048777</td>
                                 </tr>
                                 
                                 </tbody>
