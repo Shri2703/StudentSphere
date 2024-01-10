@@ -7,6 +7,7 @@ i have done this by html,css,js and connected BE php
 
 ![WhatsApp Image 2024-01-10 at 7 37 04 PM](https://github.com/Shri2703/StudentSphere/assets/126264718/50187d8e-6216-4966-a40c-93396113767e)
 ![WhatsApp Image 2024-01-10 at 7 37 06 PM (2)](https://github.com/Shri2703/StudentSphere/assets/126264718/a3c600e5-4545-4a5d-a32a-8bc6040ec992)
+![Uploading WhatsApp Image 2024-01-10 at 7.37.05 PM.jpeg…]()
 
 ![WhatsApp Image 2024-01-10 at 7 37 05 PM](https://github.com/Shri2703/StudentSphere/assets/126264718/3db8fb8b-fb92-4a23-8ef4-0dbded84b82f)
 ![WhatsApp Image 2024-01-10 at 7 37 05 PM (2)](https://github.co![WhatsApp Image 2024-01-10 at 7 37 05 PM (1)](https://github.com/Shri2703/StudentSphere/assets/126264718/04f730e8-9b6c-41fb-92a7-acaa4e9f7008)
