@@ -1,5 +1,4 @@
-#SHCOOL WEBPAGE
-It is done by the html,js, and the backend php 
+#SHCOOL WEBPAGE done by the html,js, and the backend php 
  Please have Xammap in your deviec to view this project or have apache and sql .
 
  this all the basic image's  of website
