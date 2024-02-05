@@ -1,5 +1,4 @@
-#SHCOOL WEBPAGE done by the html,js, and the backend php 
- Please have Xammap in your deviec to view this project or have apache and sql .
+This project is a simple school website implemented using HTML, CSS, JavaScript, and PHP. It serves as a basic template for a school's online presence, providing sections for home, about, courses, and contact. The front-end is crafted with HTML and CSS to ensure an appealing and responsive design. JavaScript is incorporated for interactive elements, and PHP is used for basic server-side functionalities.
 
  this all the basic image's  of website
  Home Page
